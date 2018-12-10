@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1544476190 source:c:\users\mason\desktop\wordgame\main.c
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+
+1544476432 c:\users\mason\desktop\wordgame\game.h
+
